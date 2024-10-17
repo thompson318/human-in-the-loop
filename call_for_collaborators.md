@@ -4,7 +4,7 @@ I'm seeking expressions of interest in a novel idea to support translational res
 in interventional healthcare (and beyond). I'm targeting interventional healthcare because 
 that is my research background, but if you have an idea for how my idea could be applied to
 your research outside this domain I would also like to hear from you. 
-There is also an [open component](#Open-Component:-Games-for-outreach-and-teaching) that 
+There is also an [open component](#Open-Component-Games-for-outreach-and-teaching) that 
 may be applicable if your project doesn't fit neatly elsewhere.
 I expect my idea to be applicable to projects that:
 
@@ -18,7 +18,7 @@ but this list is not meant to be exhaustive or restrictive; adding autonomy to s
  novel imaging devices (multi-spectral, photoacoustics, confocal microscopy), 
 augmented reality displays, image mosaicking, things involving artificial intelligence. 
 If you're working on a 
-project that you think fits the description please [contact me](email:s.thompson@ucl.ac.uk)
+project that you think fits the description please [contact me](mailto:s.thompson@ucl.ac.uk)
 to discuss.
 
 # What I'm offering.

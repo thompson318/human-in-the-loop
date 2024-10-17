@@ -1,8 +1,12 @@
 # Human in the loop simulation for novel technologies in healthcare (and beyond).
 
+[Stephen Thompson](https://orcid.org/0000-0001-7286-1326) Senior Research Software Engineer,
+UCL Advanced Research Computing Centre
+
+
 I'm seeking expressions of interest in a novel idea to support translational research 
 in interventional healthcare (and beyond). I'm targeting interventional healthcare because 
-that is my research background, but if you have an idea for how my idea could be applied to
+that is my research background, but if you have an idea for how this could be applied to
 your research outside this domain I would also like to hear from you. 
 There is also an [open component](#Open-Component-Games-for-outreach-and-teaching) that 
 may be applicable if your project doesn't fit neatly elsewhere.
@@ -21,11 +25,11 @@ If you're working on a
 project that you think fits the description please [contact me](mailto:s.thompson@ucl.ac.uk)
 to discuss.
 
-# What I'm offering.
+## What I'm Offering
 
 I'm in the process of applying for UKRI funding to provide research software engineering 
 over five years to develop abstract simulations of novel technology that allow us to 
-estimate the impact of system performance parameters on clinical out comes. We would:
+estimate the impact of system performance parameters on clinical outcomes. We would:
 
  - work with you to identify key system parameters, modes of user interaction, and expected clinical outcomes.
  - provide around 3 months of research software engineering time to develop a relevant simulation.
@@ -34,17 +38,21 @@ estimate the impact of system performance parameters on clinical out comes. We w
  - a final review (and publication) at the end of the project to see from
 [UCL's Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing/)  how my simulations impacted the translation project. 
 
-# What I need.
+## What I Need
 
 I am preparing a funding application to support this work. Having a set of candidate projects 
 together with short letters of support from researchers would greatly enhance the application. So
 if interested please get in touch by mid November. 
 
-# Open Component: Games for outreach and teaching
+## Open Component: Games for outreach and teaching
+The simulations and games that I have developed and intend to create are very well suited
+to use in outreach activities and teaching. I'm proposing running a parallel stream utilising
+the same software components to deliver games for outreach and teaching. The aim of this
+is to establish ARC as a centre of expertise in this area. So if you can think of a
+game you would like to develop for outreach or teaching please [contact me](mailto:s.thompson@ucl.ac.uk) to discuss your idea.
 
 
-
-# Related Publications
+# Relevant Previous Work
 
  - [Development and Assessment of a Serious Game to Study Reduced Field of View in Keyhole Surgery](https://preprints.jmir.org/preprint/56269)
  - [SnappySonic: An Ultrasound Acquisition Replay Simulator](https://doi.org/10.5334/jors.289)

@@ -1,10 +1,10 @@
-## Human in the loop simulation for novel technologies in healthcare (and beyond).
+# Human in the loop simulation for novel technologies in healthcare (and beyond).
 
 I'm seeking expressions of interest in a novel idea to support translational research 
 in interventional healthcare (and beyond). I'm targeting interventional healthcare because 
 that is my research background, but if you have an idea for how my idea could be applied to
 your research outside this domain I would also like to hear from you. 
-There is also an [open component](#Open Component: Games for outreach and teaching) that 
+There is also an [open component](#Open-Component:-Games-for-outreach-and-teaching) that 
 may be applicable if your project doesn't fit neatly elsewhere.
 I expect my idea to be applicable to projects that:
 
@@ -29,9 +29,10 @@ estimate the impact of system performance parameters on clinical out comes. We w
 
  - work with you to identify key system parameters, modes of user interaction, and expected clinical outcomes.
  - provide around 3 months of research software engineering time to develop a relevant simulation.
- - support with performing a user study and publishing the results, similar to my [previous work](# Related Publications) in the area.
+ - support with performing a user study and publishing the results, similar to my [previous work](#Related-Publications) in the area.
  - ongoing support over the life of your translation project for small modifications to the simulation to test development ideas.
- - a final review (and publication) at the end of the project to see how my simulations impacted the translation project. 
+ - a final review (and publication) at the end of the project to see from
+[UCL's Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing/)  how my simulations impacted the translation project. 
 
 # What I need.
 
@@ -45,8 +46,8 @@ if interested please get in touch by mid November.
 
 # Related Publications
 
-[Development and Assessment of a Serious Game to Study Reduced Field of View in Keyhole Surgery](https://preprints.jmir.org/preprint/56269)
-[SnappySonic: An Ultrasound Acquisition Replay Simulator}(https://doi.org/10.5334/jors.289)
-[Are fiducial registration error and target registration error correlated? SciKit-SurgeryFRED for teaching and research](https://doi.org/10.1117/12.2580159)
+ - [Development and Assessment of a Serious Game to Study Reduced Field of View in Keyhole Surgery](https://preprints.jmir.org/preprint/56269)
+ - [SnappySonic: An Ultrasound Acquisition Replay Simulator](https://doi.org/10.5334/jors.289)
+ - [Are fiducial registration error and target registration error correlated? SciKit-SurgeryFRED for teaching and research](https://doi.org/10.1117/12.2580159)
 
 [Stephen Thompson](https://orcid.org/0000-0001-7286-1326)

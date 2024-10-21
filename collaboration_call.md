@@ -52,7 +52,7 @@ is to establish ARC as a centre of expertise in this area. So if you can think o
 game you would like to develop for outreach or teaching please [contact me](mailto:s.thompson@ucl.ac.uk) to discuss your idea.
 
 
-# Relevant Previous Work
+## Relevant Previous Work
 
  - [Development and Assessment of a Serious Game to Study Reduced Field of View in Keyhole Surgery](https://preprints.jmir.org/preprint/56269)
  - [SnappySonic: An Ultrasound Acquisition Replay Simulator](https://doi.org/10.5334/jors.289)

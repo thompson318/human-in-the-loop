@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collaboration Invite"
+title:  "Help Wanted - Translational Projects"
 date:   2024-10-21 08:48:23 +0100
 categories: human in the loop
 ---
@@ -10,6 +10,13 @@ categories: human in the loop
 [Stephen Thompson](https://orcid.org/0000-0001-7286-1326) Senior Research Software Engineer,
 UCL Advanced Research Computing Centre
 
+I'm preparing a UKRI Research Software Engineering fellowship to create "human in the loop
+simulations". The plan is to collaborate with researchers developing novel 
+technologies that are intended to work collaboratively with humans, it is important that the
+success of the technology will depend on how users interact with it. If successful I will be 
+able to create bespoke simulations of novel technologies at the very early stage of development.
+The simulations will enable better understanding of how humans will interact with the technology and help
+steer the translational research process. 
 
 I'm seeking expressions of interest in a novel idea to support translational research 
 in interventional healthcare (and beyond). I'm targeting interventional healthcare because 
